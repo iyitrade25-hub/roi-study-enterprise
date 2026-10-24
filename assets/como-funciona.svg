@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="t d">
+  <title id="t">Como funciona: 4 passos</title>
+  <desc id="d">Entender o contexto, coletar evidências, estruturar em três pilares e apresentar o deck executivo</desc>
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#2E6A9E"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="520" rx="18" fill="#F4F7FB" stroke="#D5DFEA"/>
+
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="40" y="58" font-size="26" font-weight="800" fill="#0B1F33">Como funciona</text>
+    <text x="1160" y="58" font-size="17" fill="#5A6B7D" text-anchor="end">6 fases da skill agrupadas em 4 passos</text>
+
+    <!-- arrows -->
+    <g stroke="#2E6A9E" stroke-width="3" fill="none" marker-end="url(#arr)">
+      <line x1="284" y1="270" x2="327" y2="270"/>
+      <line x1="577" y1="270" x2="620" y2="270"/>
+      <line x1="870" y1="270" x2="913" y2="270"/>
+    </g>
+
+    <!-- card template values: x, width 244, y 92, height 340 -->
+    <!-- Card 1 -->
+    <g transform="translate(40,92)">
+      <rect width="244" height="340" rx="14" fill="#FFFFFF" stroke="#D5DFEA"/>
+      <rect width="244" height="6" rx="3" fill="#2E6A9E"/>
+      <circle cx="40" cy="50" r="20" fill="#0B1F33"/>
+      <text x="40" y="57" font-size="19" font-weight="800" fill="#FFFFFF" text-anchor="middle">1</text>
+      <text x="72" y="57" font-size="24" font-weight="800" fill="#0B1F33">Entender</text>
+      <text x="20" y="98" font-size="16" font-weight="600" fill="#2E6A9E">Contexto e objetivo</text>
+      <line x1="20" y1="114" x2="224" y2="114" stroke="#E3EAF2"/>
+      <g font-size="15" fill="#33475B">
+        <text x="20" y="146">• Processo analisado</text>
+        <text x="20" y="176">• Objetivo comercial</text>
+        <text x="20" y="206">• Material recebido</text>
+        <text x="20" y="236">• Quem vai decidir</text>
+      </g>
+      <rect x="20" y="290" width="74" height="28" rx="14" fill="#E8F0F8"/>
+      <text x="57" y="309" font-size="13" font-weight="700" fill="#2E6A9E" text-anchor="middle">Fase 1</text>
+    </g>
+
+    <!-- Card 2 -->
+    <g transform="translate(333,92)">
+      <rect width="244" height="340" rx="14" fill="#FFFFFF" stroke="#D5DFEA"/>
+      <rect width="244" height="6" rx="3" fill="#2E6A9E"/>
+      <circle cx="40" cy="50" r="20" fill="#0B1F33"/>
+      <text x="40" y="57" font-size="19" font-weight="800" fill="#FFFFFF" text-anchor="middle">2</text>
+      <text x="72" y="57" font-size="24" font-weight="800" fill="#0B1F33">Coletar</text>
+      <text x="20" y="98" font-size="16" font-weight="600" fill="#2E6A9E">Evidências do cliente</text>
+      <line x1="20" y1="114" x2="224" y2="114" stroke="#E3EAF2"/>
+      <g font-size="15" fill="#33475B">
+        <text x="20" y="146">• Transcrições de reunião</text>
+        <text x="20" y="176">• Dashboards e SLAs</text>
+        <text x="20" y="206">• Relatórios internos</text>
+        <text x="20" y="236">• Entrevista com champion</text>
+      </g>
+      <rect x="20" y="290" width="104" height="28" rx="14" fill="#E8F0F8"/>
+      <text x="72" y="309" font-size="13" font-weight="700" fill="#2E6A9E" text-anchor="middle">Fases 2 e 5</text>
+    </g>
+
+    <!-- Card 3 -->
+    <g transform="translate(626,92)">
+      <rect width="244" height="340" rx="14" fill="#FFFFFF" stroke="#D5DFEA"/>
+      <rect width="244" height="6" rx="3" fill="#2E6A9E"/>
+      <circle cx="40" cy="50" r="20" fill="#0B1F33"/>
+      <text x="40" y="57" font-size="19" font-weight="800" fill="#FFFFFF" text-anchor="middle">3</text>
+      <text x="72" y="57" font-size="24" font-weight="800" fill="#0B1F33">Estruturar</text>
+      <text x="20" y="98" font-size="16" font-weight="600" fill="#2E6A9E">Três pilares do ROI</text>
+      <line x1="20" y1="114" x2="224" y2="114" stroke="#E3EAF2"/>
+      <g font-size="15" fill="#33475B">
+        <text x="20" y="146">• Saving direto</text>
+        <text x="20" y="176">• Eficiência operacional</text>
+        <text x="20" y="206">• Risco coberto</text>
+        <text x="20" y="236">• Lacunas a fechar</text>
+      </g>
+      <rect x="20" y="290" width="104" height="28" rx="14" fill="#E8F0F8"/>
+      <text x="72" y="309" font-size="13" font-weight="700" fill="#2E6A9E" text-anchor="middle">Fases 3 e 4</text>
+    </g>
+
+    <!-- Card 4 (highlight) -->
+    <g transform="translate(919,92)">
+      <rect width="244" height="340" rx="14" fill="#0B1F33"/>
+      <rect width="244" height="6" rx="3" fill="#3CCB86"/>
+      <circle cx="40" cy="50" r="20" fill="#3CCB86"/>
+      <text x="40" y="57" font-size="19" font-weight="800" fill="#0B1F33" text-anchor="middle">4</text>
+      <text x="72" y="57" font-size="24" font-weight="800" fill="#FFFFFF">Apresentar</text>
+      <text x="20" y="98" font-size="16" font-weight="600" fill="#3CCB86">Deck executivo</text>
+      <line x1="20" y1="114" x2="224" y2="114" stroke="#FFFFFF" stroke-opacity="0.15"/>
+      <g font-size="15" fill="#D6E6F5">
+        <text x="20" y="146">• 7 slides narrativos</text>
+        <text x="20" y="176">• Números do cliente</text>
+        <text x="20" y="206">• Antes × depois</text>
+        <text x="20" y="236">• Próximos passos</text>
+      </g>
+      <rect x="20" y="290" width="74" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.12"/>
+      <text x="57" y="309" font-size="13" font-weight="700" fill="#3CCB86" text-anchor="middle">Fase 6</text>
+    </g>
+
+    <!-- principle footer -->
+    <rect x="40" y="452" width="1123" height="44" rx="10" fill="#E8F0F8"/>
+    <text x="601" y="480" font-size="16" fill="#0B1F33" text-anchor="middle"><tspan font-weight="800">Regra de ouro:</tspan> um dado confirmado pelo cliente vale mais que três estimativas do fornecedor.</text>
+  </g>
+</svg>

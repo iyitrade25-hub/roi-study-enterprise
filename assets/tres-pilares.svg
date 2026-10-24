@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="t d">
+  <title id="t">Os três pilares do ROI</title>
+  <desc id="d">Saving direto, eficiência operacional e risco coberto, cada um com seu formato de argumento</desc>
+
+  <rect width="1200" height="400" rx="18" fill="#F4F7FB" stroke="#D5DFEA"/>
+
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="40" y="58" font-size="26" font-weight="800" fill="#0B1F33">Os três pilares do ROI</text>
+    <text x="1160" y="58" font-size="17" fill="#5A6B7D" text-anchor="end">todo estudo é organizado nessas três camadas</text>
+
+    <!-- Pillar 1 -->
+    <g transform="translate(40,88)">
+      <rect width="361" height="280" rx="14" fill="#FFFFFF" stroke="#D5DFEA"/>
+      <rect x="0" y="0" width="8" height="280" rx="4" fill="#1F8A5B"/>
+      <text x="32" y="48" font-size="14" font-weight="700" fill="#1F8A5B" letter-spacing="1.5">PILAR 1</text>
+      <text x="32" y="82" font-size="26" font-weight="800" fill="#0B1F33">Saving direto</text>
+      <text x="32" y="110" font-size="15" fill="#5A6B7D">O que o cliente deixou de gastar</text>
+      <g font-size="15" fill="#33475B">
+        <text x="32" y="148">• Multas e penalidades evitadas</text>
+        <text x="32" y="174">• Horas eliminadas × custo/hora</text>
+        <text x="32" y="200">• Sistemas substituídos</text>
+      </g>
+      <rect x="32" y="222" width="305" height="38" rx="8" fill="#E9F6EF"/>
+      <text x="184" y="247" font-size="15" font-weight="700" fill="#1F8A5B" text-anchor="middle">"De R$ X para R$ Y, redução de Z%"</text>
+    </g>
+
+    <!-- Pillar 2 -->
+    <g transform="translate(420,88)">
+      <rect width="361" height="280" rx="14" fill="#FFFFFF" stroke="#D5DFEA"/>
+      <rect x="0" y="0" width="8" height="280" rx="4" fill="#2E6A9E"/>
+      <text x="32" y="48" font-size="14" font-weight="700" fill="#2E6A9E" letter-spacing="1.5">PILAR 2</text>
+      <text x="32" y="82" font-size="26" font-weight="800" fill="#0B1F33">Eficiência operacional</text>
+      <text x="32" y="110" font-size="15" fill="#5A6B7D">Mais rápido, com menos gente e erro</text>
+      <g font-size="15" fill="#33475B">
+        <text x="32" y="148">• Tempo de processo antes × depois</text>
+        <text x="32" y="174">• Headcount reduzido ou realocado</text>
+        <text x="32" y="200">• Volume cresceu sem crescer o time</text>
+      </g>
+      <rect x="32" y="222" width="305" height="38" rx="8" fill="#E8F0F8"/>
+      <text x="184" y="247" font-size="15" font-weight="700" fill="#2E6A9E" text-anchor="middle">"O que levava X agora leva Y"</text>
+    </g>
+
+    <!-- Pillar 3 -->
+    <g transform="translate(800,88)">
+      <rect width="361" height="280" rx="14" fill="#0B1F33"/>
+      <rect x="0" y="0" width="8" height="280" rx="4" fill="#3CCB86"/>
+      <text x="32" y="48" font-size="14" font-weight="700" fill="#3CCB86" letter-spacing="1.5">PILAR 3</text>
+      <text x="32" y="82" font-size="26" font-weight="800" fill="#FFFFFF">Risco coberto</text>
+      <text x="32" y="110" font-size="15" fill="#B9CCE0">O que o cliente não perdeu</text>
+      <g font-size="15" fill="#D6E6F5">
+        <text x="32" y="148">• Valores e ativos rastreados</text>
+        <text x="32" y="174">• Paradas operacionais evitadas</text>
+        <text x="32" y="200">• Conformidade mantida</text>
+      </g>
+      <rect x="32" y="222" width="305" height="38" rx="8" fill="#FFFFFF" fill-opacity="0.1"/>
+      <text x="184" y="247" font-size="15" font-weight="700" fill="#3CCB86" text-anchor="middle">"R$ X protegidos, risco Y eliminado"</text>
+    </g>
+  </g>
+</svg>
