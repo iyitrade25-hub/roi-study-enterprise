@@ -133,11 +133,13 @@ O `SKILL.md` traz um caso **fictício** (uma distribuidora com processo de compr
 
 ---
 
-## Uso e adaptações
+## Feedback e contribuições
 
-Este repositório não aceita *pull requests*. Para adaptar a skill ao seu contexto, faça o download ou um *fork* e edite a sua própria cópia.
+Para adaptar a skill ao seu contexto, faça o download ou um *fork* e edite a sua própria cópia.
 
-Se for compartilhar a sua versão, **nunca inclua dados reais de clientes** nos exemplos. Use apenas casos fictícios.
+Dúvidas, sugestões e relatos de uso são bem-vindos nas *issues*. *Pull requests* também podem ser enviados; cada um é revisado antes de qualquer alteração entrar no repositório.
+
+**Nunca inclua dados reais de clientes** em exemplos, issues ou pull requests. Use apenas casos fictícios.
 
 ---
 
