@@ -133,11 +133,11 @@ O `SKILL.md` traz um caso **fictício** (uma distribuidora com processo de compr
 
 ---
 
-## Contribuindo
+## Uso e adaptações
 
-Sugestões de novas perguntas, novos tipos de processo ou melhorias no template são bem-vindas. Abra uma *issue* ou envie um *pull request*.
+Este repositório não aceita *pull requests*. Para adaptar a skill ao seu contexto, faça o download ou um *fork* e edite a sua própria cópia.
 
-**Nunca inclua dados reais de clientes** em exemplos, issues ou pull requests. Use apenas casos fictícios.
+Se for compartilhar a sua versão, **nunca inclua dados reais de clientes** nos exemplos. Use apenas casos fictícios.
 
 ---
 
